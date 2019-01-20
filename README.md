@@ -50,8 +50,7 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 There will be Video of 1 - 1.5 Hours EveryDay and a project that wont take more than 2 Hours if `Done Right`
 
 
-##Lets Do It
+## Lets Do It
 
-# 1. Day 0
-
+*Starting Soon*
 
