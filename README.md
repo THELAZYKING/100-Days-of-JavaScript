@@ -3,9 +3,31 @@
 
 
 
-This is the index of 100 Days OF JavaScript 
+
+
+
+
+
+
+![Challenge](https://github.com/THELAZYKING/100-Days-of-JavaScript/blob/master/Images/Spartan-challenge.jpg?raw=true)
+
+
+
+
+
+This is the index of 100 Days oF JavaScript 
 
 ## What is it?
+
+
+
+
+
+
+
+
+![Coder](https://github.com/THELAZYKING/100-Days-of-JavaScript/blob/master/Images/coding.jpg?raw=true)
+
  This is my 100 days JavaScript Code Challenge to become a legit Web Developer (having daily 1 Mini project). This Challenge will be supplied with Sufficient Resources and will suggest a daily Problem statement (and Starter Files at later parts). Basically its my way of revising the technologies.
 
 
@@ -26,5 +48,10 @@ Most of the the Videos are from YouTube and articles from Medium and Mozilla Doc
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.  Each day I take one Topic, watch videos about that subject, and code the Implementation.
 There will be Video of 1 - 1.5 Hours EveryDay and a project that wont take more than 2 Hours if `Done Right`
+
+
+##Lets Do It
+
+# 1. Day 0
 
 
