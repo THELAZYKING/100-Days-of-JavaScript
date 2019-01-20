@@ -1,5 +1,8 @@
 # 100 Days Of JavaScript Challenge 
 
+
+
+
 This is the index of 100 Days OF JavaScript 
 
 ## What is it?
@@ -7,9 +10,9 @@ This is the index of 100 Days OF JavaScript
 
 
 ## Why use It
-1. *Beginner Developers*| `Those who don't know Web Development but are comfortable with working with Computer` | Full Stack Development Jobs are ranked No. 2 in World [Source: Udacity] and what better than building projects along with learning new Technologies.
+1. *Beginner Developers* | `Those who don't know Web Development but are comfortable with working with Computer` | Full Stack Development Jobs are ranked No. 2 in World [Source: Udacity] and what better than building projects along with learning new Technologies.
 
-2. *Intermediate Developers*| `I associate this level with those who know these technology but don't know it in depth`| This is a Fun Revision as well as a good Practice along with doing projects.
+2. *Intermediate Developers* | `I associate this level with those who know these technology but don't know it in depth`| This is a Fun Revision as well as a good Practice along with doing projects.
 
 3. *Advanced Developers* | `Comfortable with these technology `| Kindly help the Community with Tips and how to Improve The Course. I would love to improve this challenge with your Valuable Challenge.
 
@@ -23,3 +26,5 @@ Most of the the Videos are from YouTube and articles from Medium and Mozilla Doc
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.  Each day I take one Topic, watch videos about that subject, and code the Implementation.
 There will be Video of 1 - 1.5 Hours EveryDay and a project that wont take more than 2 Hours if `Done Right`
+
+
