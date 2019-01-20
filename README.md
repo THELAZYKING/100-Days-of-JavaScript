@@ -15,7 +15,7 @@
 
 
 
-This is the index of 100 Days oF JavaScript 
+This is the index of 100 Days of JavaScript 
 
 ## What is it?
 
