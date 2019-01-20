@@ -9,7 +9,7 @@
 
 
 
-![Challenge](https://github.com/THELAZYKING/100-Days-of-JavaScript/blob/master/Images/Spartan-challenge.jpg =600x400)
+<img src="https://github.com/THELAZYKING/100-Days-of-JavaScript/blob/master/Images/Spartan-challenge.jpg" width="600" height="400" />
 
 
 
@@ -26,7 +26,7 @@ This is the index of 100 Days of JavaScript
 
 
 
-![Coder](https://github.com/THELAZYKING/100-Days-of-JavaScript/blob/master/Images/coding.jpg =600x400)
+<img src="https://github.com/THELAZYKING/100-Days-of-JavaScript/blob/master/Images/coding.jpg" width="600" height="400" />
 
  This is my 100 days JavaScript Code Challenge to become a legit Web Developer (having daily 1 Mini project). This Challenge will be supplied with Sufficient Resources and will suggest a daily Problem statement (and Starter Files at later parts). Basically its my way of revising the technologies.
 
