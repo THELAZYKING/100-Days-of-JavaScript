@@ -36,7 +36,7 @@ This is the index of 100 Days of JavaScript
 
 2. *Intermediate Developers* | `I associate this level with those who know these technology but don't know it in depth`| This is a Fun Revision as well as a good Practice along with doing projects.
 
-3. *Advanced Developers* | `Comfortable with these technology `| Kindly help the Community with Tips and how to Improve The Course. I would love to improve this challenge with your Valuable Challenge.
+3. *Advanced Developers* | `Comfortable with these technology `| Kindly help the Community with Tips and how to improve this repository . I would love to improve this challenge with your Valuable Challenge.
 
 
 ## About Video Resources
